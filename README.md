@@ -1,3 +1,3 @@
-# Calculator
-My Calculator in Kotlin
+# Tic Tac Toe
+Tic Tac Toe in Kotlin
 .
